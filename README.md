@@ -5,7 +5,6 @@ URL Placeholder challenge:
 You have been given a list of URLs that you need to fetch using Fetch API and display the content of the response using AJAX call.
 Your task is to write a function that accepts an array of URLs and fetches their content using Fetch API and displays the content using AJAX calls.
 
-Function signature:
 function fetchAndDisplay(urls: string[]) {
     // your code here
 }
